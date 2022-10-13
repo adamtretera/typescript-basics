@@ -295,8 +295,10 @@ type UserList = User[]
 ```
 
 
---- 
+---
+
 # Cvičení udělejte to stejné ale s Animals
+
 ```ts
 {
   "jmeno": "Petr",
@@ -315,11 +317,7 @@ type UserList = User[]
   "parents": [1232113, 1312313213],
   "jeOhrozeny": true
 }
-
 ```
-
----
-
 # Extendování
 
 ```ts
