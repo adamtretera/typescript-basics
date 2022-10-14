@@ -266,7 +266,7 @@ console.log(foo);         //undefined
 
 # Type Assertions
 - občas musíte říct typescriptu nějký typ, protože nemá způsob jak ho vědět
-- např. dostanete něco z nějkého knihovny a vi víte jakýá je to typ, ale knhiovna není na typována
+- např. dostanete něco z nějkého knihovny a vy víte jaký je to typ, ale knhiovna není na typována
 
 ```ts
 zpracujData(data as MujTyp) // zavolám funkci zpracuj data a nemužu vědět typ
